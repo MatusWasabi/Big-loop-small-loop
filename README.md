@@ -7,4 +7,11 @@ A month long casual game project
 - Spline by unity technology
 
 # Goal 
-To finished a game with learning process. 
+To finished developing a game with production process. 
+Learn within one month constriant.
+- Ideation
+- Prototyping
+- Playtesting
+- Pre-production (Vertical Slice Specifically)
+
+Reference: [Playful production process, Richard Lemarchand](https://youtu.be/6CU8RJ3afMM)
